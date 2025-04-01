@@ -45,7 +45,7 @@ class BooksModel(CommonModelMixin):
 
 class BorrowModel(CommonModelMixin):
     state_choices = (
-        (0, "借阅仲"),
+        (0, "借阅中"),
         (1, "已归还"),
     )
     reader_id = models.CharField(max_length=50, verbose_name="读者编号")
