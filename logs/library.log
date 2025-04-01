@@ -1,0 +1,1 @@
+[2025-04-01 13:37:47,323][E:\git_code_test\library_sys\apps\library\middleware.py][middleware.py][process_response][LINE:26][INFO]:{'method': 'GET', 'path': '/library/books', 'query_params': {}, 'post_params': {}, 'duration': 0.0071451663970947266, 'response_status': 200}
